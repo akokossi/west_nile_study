@@ -1,0 +1,11 @@
+Package: westnileproject
+Type: Package
+Title: Analyze evolution and risks of the west nile virus
+Version: 0.1.0
+Author: Alphonse Okossi
+Description: Data Cleansing Process, Data Size, Tools used, ML Models Built,Results and Interpretation
+License: public
+Encoding: UTF-8
+Imports: lme4,sqldf,randomForest,ggplot2,stringr,dplyr,ggmap,maps,mapdata,leaflet,maps,htmlwidgets,caret  
+LazyData: true
+RoxygenNote: 6.1.0
